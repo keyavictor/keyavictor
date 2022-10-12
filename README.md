@@ -4,13 +4,13 @@
 
 <p aligh="left">
   <p>Hey there, welcome!</br>
-  I'm Keya Victor, a full-stack Web Developer from <img
+  I'm Keya Victor, a Developer and IT Professional from <img
   src="https://flagcdn.com/16x12/ke.png"
   srcset="https://flagcdn.com/32x24/ke.png 2x,
     https://flagcdn.com/48x36/ke.png 3x"
   width="16"
   height="12"
-  alt="Kenya"> <b>Nairobi and Kisumu, Kenya</b>.</p>
+  alt="Kenya"> <b>Kenya</b>.</p>
   	
   💡 &nbsp;I love the outdoors but you'll probably find me sitted somewhere typing away some code.\
   🚧 &nbsp;I'm currently doing awesome projects at <a href="#" target="_blank"><u>GigaBit!</u></a> \
@@ -18,7 +18,7 @@
 </p>
 <br>
 
-<h2>👨🏻‍💻 &nbsp;Development Tools And Environments:</h2>
+<h2>👨🏻‍💻 &nbsp;Technologies And Development Tools:</h2>
 <p>
   <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
@@ -48,11 +48,31 @@
 
 </p>
 
-<h2>🌎 &nbsp;Where to find me</h2>
-<p>
-  <a href="https://linkedin.com/in/wabutivictor" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="https://twitter.com/smatt_001" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-  <a href="mailto:wabutivictor@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+### <h2>🌎 &nbsp; Where to find me</h2>
 
+<p align="center">
+	<a href="https://www.linkedin.com/in/wabutivictor/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://www.instagram.com/omwambai_37/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+	<a href="https://twitter.com/omwambai_37"><img alt="" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/2x/twitter-squared.png"/></a>
 </p>
+<hr/>
+
+<h2>📈 &nbsp;Github Stats</h2>
+<p  align='center'>
+<img  height="137px" src="https://github-readme-stats.vercel.app/api?username=wabutivictor&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+	<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wabutivictor&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</p>
+<hr>
+<span align="center">
+
+![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wabutivictor&hide_border=true&theme=black-ice&background=black&stroke=00E6FE)
+</span>
+<br>
+
+
+
+
+
+
+<br>
 
