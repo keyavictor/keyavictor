@@ -13,7 +13,7 @@
   alt="Kenya"> <b>Kenya</b>.</p>
   	
   💡 &nbsp;I love the outdoors but you'll probably find me sitted somewhere typing away some code.\
-  🚧 &nbsp;I'm currently doing awesome projects at <a href="#" target="_blank"><u>GigaBit!</u></a> \
+  🚧 &nbsp;I'm currently doing awesome projects at <a href="#" target="_blank"><u>Artax!</u></a> \
   💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
 </p>
 <br>
