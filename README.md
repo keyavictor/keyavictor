@@ -4,7 +4,7 @@
 
 <p aligh="left">
   <p>Hey there, welcome!</br>
-  I'm Keya Victor,a full-stack Web Developer from <img
+  I'm Keya Victor, a full-stack Web Developer from <img
   src="https://flagcdn.com/16x12/ke.png"
   srcset="https://flagcdn.com/32x24/ke.png 2x,
     https://flagcdn.com/48x36/ke.png 3x"
