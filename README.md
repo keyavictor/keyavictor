@@ -76,5 +76,5 @@
 </span>
 <span align="right">
 
-![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karimkkanji&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
+![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karimkkanji&hide_border=true&theme=black-ice&background=black&stroke=00E6FE)
 </span>
