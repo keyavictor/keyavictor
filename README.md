@@ -56,14 +56,3 @@
 	<a href="https://twitter.com/omwambai_37"><img alt="" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/2x/twitter-squared.png"/></a>
 </p>
 <hr/>
-
-<h2>📈 &nbsp;Github Stats</h2>
-<span align="center">
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=wabutivictor&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
-</span>
-<hr>
-<span align="center">
-
-![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wabutivictor&hide_border=true&theme=black-ice&background=black&stroke=00E6FE)
-</span>
