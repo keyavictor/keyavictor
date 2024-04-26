@@ -4,13 +4,23 @@
 
 <p aligh="left">
   <p>Hey there, welcome!</br>
-  I'm Keya Victor, a Developer and IT Professional from <img
+  I'm Keya Victor, an Experienced IT Professional from 
+ 
+
+
+  
+  <img
   src="https://flagcdn.com/16x12/ke.png"
   srcset="https://flagcdn.com/32x24/ke.png 2x,
     https://flagcdn.com/48x36/ke.png 3x"
   width="16"
   height="12"
-  alt="Kenya"> <b>Kenya</b>.</p>
+  alt="Kenya"> <b>Kenya</b>
+  
+  Specializing in Information Security, Software Engineering, and Comprehensive Network Solutions
+  
+  
+  .</p>
   	
   💡 &nbsp;I love the outdoors but you'll probably find me sitted somewhere typing away some code.\
   🚧 &nbsp;I'm currently doing awesome projects at <a href="#" target="_blank"><u>Decascope!</u></a> \
@@ -27,7 +37,6 @@
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
