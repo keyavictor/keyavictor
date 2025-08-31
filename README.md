@@ -10,7 +10,7 @@
     https://flagcdn.com/48x36/ke.png 3x"
   width="16"
   height="12"
-  alt="Kenya"> <b>Kenya</b>  Specializing in Information Security, Software Engineering, and Comprehensive Network Solutions.</p>
+  alt="Kenya"> <b>Kenya</b>  with a unique blend of expertise in offensive security, network operations, and secure software development. I specialize in identifying vulnerabilities and architecting resilient systems from the ground up, ensuring defense against evolving cyber threats across the entire stack—from application code to network infrastructure. Passionate about integrating security at every phase of development and safeguarding digital assets to contribute to innovative, secure technological solutions.</p>
   	
   💡 &nbsp;I love the outdoors but you'll probably find me sitted somewhere typing away some code.\
   🚧 &nbsp;I'm currently doing awesome projects at <a href="decascope.co.ke" target="_blank"><u>Decascope!</u></a> \
